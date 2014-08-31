@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Subrayada);
+
+h3.header_t {
+	font-family: 'Montserrat Subrayada', sans-serif;
+	font-size: 40px;
+	color: #218c1f;
+}
+
+.footer {
+	text-align:center;
+}
