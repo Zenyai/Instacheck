@@ -18,3 +18,9 @@ http://sarnsuwan.com/narongdej/instacheck/
 2) Upload to your server
 
 3) Done and ready to check your unfollowers
+
+----------------
+Credit
+----------------
+
+Instagram PHP wrapper by macuenca (https://github.com/macuenca/Instagram-PHP-API)
