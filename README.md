@@ -8,7 +8,7 @@ PHP script to check your unfollowers in instagram
 ----------------
 Demo
 ----------------
-http://sarnsuwan.com/narongdej/instacheck/
+http://instacheck.sarnsuwan.com
 
 ----------------
   Installation
